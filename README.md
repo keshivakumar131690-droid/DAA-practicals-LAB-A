@@ -11,10 +11,10 @@ Algorithms (DAA) laboratory course.
 ---
 
 ## 👨‍🎓 Student Information
-- **Name: K E SHIVA KUMAR
-- **Enrollment no:92460118303
-- **Cource: B.Tech- Aritificial Intelligence & Machine Learning
-- **Subject: Data Analysis and Algorithms (DAA)
+- **Name:** K E SHIVA KUMAR
+- **Enrollment no:** 92460118303
+- **Cource:** B.Tech- Aritificial Intelligence & Machine Learning
+- **Subject:** Data Analysis and Algorithms (DAA)
 
   ---
 
